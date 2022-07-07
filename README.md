@@ -1,1 +1,3 @@
-# randomu-todo
+- rename `.env.example` to `.env`
+- run `npm run first` for install dependencies, generate prisma schemas and run server
+- docs on `http://localhost:3001/docs` or your port
